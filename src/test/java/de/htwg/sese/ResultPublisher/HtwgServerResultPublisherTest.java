@@ -3,7 +3,7 @@ package de.htwg.sese.ResultPublisher;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import de.htwg.sese.ResultPublisher.impl.HtwgServerResultPublisher;
+import backgammon04.ResultPublisher.impl.HtwgServerResultPublisher;
 
 @Ignore
 public class HtwgServerResultPublisherTest {

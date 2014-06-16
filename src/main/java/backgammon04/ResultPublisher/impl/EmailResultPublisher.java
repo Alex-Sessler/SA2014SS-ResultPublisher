@@ -1,4 +1,4 @@
-package de.htwg.sese.ResultPublisher.impl;
+package backgammon04.ResultPublisher.impl;
 
 import java.util.Date;
 import java.util.Map;
@@ -12,7 +12,7 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
-import de.htwg.sese.ResultPublisher.IResultPublisher;
+import backgammon04.ResultPublisher.IResultPublisher;
 
 public class EmailResultPublisher implements IResultPublisher {
 

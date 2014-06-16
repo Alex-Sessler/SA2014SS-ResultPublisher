@@ -1,4 +1,4 @@
-package de.htwg.sese.ResultPublisher.impl;
+package backgammon04.ResultPublisher.impl;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -9,7 +9,7 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.DefaultHttpClient;
 
-import de.htwg.sese.ResultPublisher.IResultPublisher;
+import backgammon04.ResultPublisher.IResultPublisher;
 
 public class HtwgServerResultPublisher implements IResultPublisher {
 

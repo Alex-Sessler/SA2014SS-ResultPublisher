@@ -1,4 +1,4 @@
-package de.htwg.sese.ResultPublisher;
+package backgammon04.ResultPublisher;
 
 import java.util.Map;
 

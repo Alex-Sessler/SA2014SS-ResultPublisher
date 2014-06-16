@@ -6,7 +6,8 @@ import java.util.Map;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import de.htwg.sese.ResultPublisher.impl.EmailResultPublisher;
+import backgammon04.ResultPublisher.IResultPublisher;
+import backgammon04.ResultPublisher.impl.EmailResultPublisher;
 
 @Ignore
 public class EmailResultPublisherTest {
