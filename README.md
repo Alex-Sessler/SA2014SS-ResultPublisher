@@ -18,7 +18,7 @@ Use EmailResultPublisher:
 	conf.put("mailserver", "smtp.gmail.com");
 	conf.put("port", "465");
 	conf.put("username", "user");
-	conf.put("password", "passwird");
+	conf.put("password", "password");
 	
 	pub.configurePublisher(conf);
 	
